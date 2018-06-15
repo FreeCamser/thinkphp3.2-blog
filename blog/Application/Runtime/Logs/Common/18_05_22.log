@@ -1,0 +1,796 @@
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Assets
+
+ets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:22+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:24+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:50:28+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:53:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:05+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/main-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/bui-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/css/dpl-min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T19:56:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:45+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:45+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Assets
+
+ssets
+
+[ 2018-05-22T20:31:45+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:45+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:46+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:47+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001510s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:48+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003643s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:52+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:52+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:52+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:52+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:52+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:31:52+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/jquery-1.8.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/bui-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/common/main-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:34:07+08:00 ] 127.0.0.1 /thinkphp3/index.php/assets/js/config-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Assets
+
+[ 2018-05-22T20:35:20+08:00 ] 127.0.0.1 /thinkphp3/index.php/Node/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Node
+
+[ 2018-05-22T20:35:25+08:00 ] 127.0.0.1 /thinkphp3/index.php/Role/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Role
+
+[ 2018-05-22T20:35:26+08:00 ] 127.0.0.1 /thinkphp3/index.php/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:User
+
+[ 2018-05-22T20:35:27+08:00 ] 127.0.0.1 /thinkphp3/index.php/Menu/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-05-22T20:35:29+08:00 ] 127.0.0.1 /thinkphp3/index.php/Node/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:Node
+
+[ 2018-05-22T21:50:04+08:00 ] 127.0.0.1 /thinkphp3/index.php/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Js
+
+[ 2018-05-22T21:50:06+08:00 ] 127.0.0.1 /thinkphp3/index.php/design.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+ERR: 无法加载模块:Design
+
+[ 2018-05-22T21:50:18+08:00 ] 127.0.0.1 /thinkphp3/index.php/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Js
+

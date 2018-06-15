@@ -1,0 +1,16 @@
+<div class="img">
+    <img src="__PUBLIC__/images/head.png"  height="300"width="100%">
+</div>
+<div class="topbar">
+    <div class="inner">
+
+        <ul class="nav">
+        <li ><a href="__ROOT__/">首页</a></li>
+            <volist name="cateres" id="vo">
+            <li ><a href="__MODULE__/Cate/index/id/{$vo.id}">{$vo.catename}</a></li>
+            </volist>
+            <li ><a href="__MODULE__/Message">留言板</a></li>
+            <li ><a href="__MODULE__/Ping">Ping</a></li>
+        </ul>
+    </div>
+</div>
